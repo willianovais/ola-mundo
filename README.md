@@ -1,2 +1,2 @@
 # ola-mundo
- primeiro rep
+ primeiro repositorio
